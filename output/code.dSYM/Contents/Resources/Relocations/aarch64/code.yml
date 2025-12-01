@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/apple/100DaysOfCodeUPES/output/code'
-relocations:     []
-...
